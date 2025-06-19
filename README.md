@@ -15,7 +15,6 @@
 
 - `llm.bat` - Windows批处理脚本
 - `llm.sh` - Linux Shell脚本
-- `1.py` - Python辅助文件
 
 ## 环境要求
 
