@@ -3,7 +3,7 @@ chcp 65001 >nul
 setlocal enabledelayedexpansion
 
 REM 检查环境变量，如果存在则使用环境变量，否则使用默认值
-if not defined API_KEY set "API_KEY=sk-690174582eb54260893ad3954aff7cec"
+if not defined API_KEY set "API_KEY=sk-"
 if not defined BASE_URL set "BASE_URL=https://api.deepseek.com/v1"
 if not defined MODEL set "MODEL=deepseek-chat"
 
