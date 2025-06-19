@@ -1,6 +1,6 @@
     #!/bin/bash
 if [ -z "$API_KEY" ]; then
-    API_KEY="sk-690174582eb54260893ad3954aff7cec"
+    API_KEY="sk-"
 fi
 if [ -z "$BASE_URL" ]; then
     BASE_URL="https://api.deepseek.com/v1"
