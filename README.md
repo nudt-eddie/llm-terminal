@@ -16,6 +16,9 @@
 - `llm.bat` - Windows批处理脚本
 - `llm.sh` - Linux Shell脚本
 
+## 使用样例
+![使用示例](image.png)
+
 ## 环境要求
 
 ### Windows (llm.bat)
