@@ -1,4 +1,4 @@
-# LLM Shell
+# LLM in Terminal
 
 一个跨平台的命令行工具，用于与大语言模型进行交互。支持不同的角色模式，可以进行问答、生成Shell命令和Python代码。
 
